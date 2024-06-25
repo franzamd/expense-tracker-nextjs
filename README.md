@@ -4,7 +4,7 @@ Application for tracking income and expenses. It uses Next.js with [Neon](https:
 
 [Watch The Tutorial](https://www.youtube.com/watch?v=I6DCo5RwHBE)
 
-[Try Demo](https://traversydemos.dev)
+[Try Demo](https://expense-tracker-nextjs-umber.vercel.app/)
 
 <div style="text-align:center;margin:30px auto;">
   <img src="public/screenshot.png" alt="" width="500" style="margin: 0 auto;" />
